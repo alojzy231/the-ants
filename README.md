@@ -1,4 +1,3 @@
-
 # The ants 🐜
 
 Webapp created to visualize ant colony optimization algorithms and how they work.
@@ -20,4 +19,3 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
