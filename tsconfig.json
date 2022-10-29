@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
+      "@styles/*": ["src/styles/*"],
       "@views/*": ["src/views/*"],
     },
     "target": "esnext",
